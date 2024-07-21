@@ -16,6 +16,9 @@ make data-driven recommendation , and gain a deeper understanding of the company
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Open the Excel file [Sales Dsahboard](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/161847a81f307ef5ba56086c0f48c62da048d758/Bike%20sales%20project.xlsx) to explore the dashboard.
-3. Dive into the 
+3. Dive into the [Raw dataset](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/ee65f6047aeebcdc4d1169ffa8ff1e448df1599b/Bike%20sales%20raw%20data.xlsx) to access the raw dataset
+
+## Project Overview:
+- **Objective
   
 Tools : Excel- Data Cleaning and Creating Report.
