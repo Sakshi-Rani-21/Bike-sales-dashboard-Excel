@@ -6,7 +6,9 @@ This data analysis project aims to provide insights into the sales of a Europe b
 make data-driven recommendation , and gain a deeper understanding of the company's performance.
 
 ## Dashboard Preview:
-[Dashboard Preview](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/4bc62edd0e979c603ff5c347ec15e0b51749a9bb/Bike%20Sales%20Dashboard-Excel.png)
+![Bike Sales Dashboard-Excel](https://github.com/user-attachments/assets/97537b5e-8085-43a2-90b5-6440ba6cbd9a)
+[Dashboard]
+
 
 ## Features
 - Analyze sales trend by distance commuted.
@@ -19,6 +21,7 @@ make data-driven recommendation , and gain a deeper understanding of the company
 3. Dive into the [Raw dataset](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/ee65f6047aeebcdc4d1169ffa8ff1e448df1599b/Bike%20sales%20raw%20data.xlsx) to access the raw dataset
 
 ## Project Overview:
-- **Objective
+- **Objective:** To transform raw sales data into actionable insights.
+- **Tools Used:** Microsoft Excel
+- **Skills Demonstrated** Data analysis, visualization, dashboard design.
   
-Tools : Excel- Data Cleaning and Creating Report.
