@@ -7,7 +7,7 @@ make data-driven recommendation , and gain a deeper understanding of the company
 
 ## Dashboard Preview:
 ![Bike Sales Dashboard-Excel](https://github.com/user-attachments/assets/97537b5e-8085-43a2-90b5-6440ba6cbd9a)
-[Dashboard]
+[Dashboard Preview](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/87062269b8c7e03e76f57704684dbcb5bce16b5c/Bike%20Sales%20Dashboard-Excel.png)
 
 
 ## Features
